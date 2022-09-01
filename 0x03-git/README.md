@@ -1,1 +1,1 @@
-My first readme
+I finally managed to understand git CLI better
