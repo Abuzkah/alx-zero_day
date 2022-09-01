@@ -1,0 +1,3 @@
+# ignore all logs
+*.log
+git config --global core.excludesFile ~/.gitignore
